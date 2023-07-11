@@ -2,6 +2,10 @@
 
 This script provides information about the network configuration, including the private IP address, VPN status, and target machine details (IP address and name).
 
+
+![image](https://github.com/vorosdev/ipa/assets/95487675/59082683-ef14-4b44-bec0-76a59213ae46)
+
+
 #### Requirements:
 - Shell: `zsh`
 
